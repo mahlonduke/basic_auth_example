@@ -7,7 +7,7 @@ import base64
 import api_config
 
 # API Variables
-deployment = 'your-deployment'
+deployment = api_config.deployment
 clientId = api_config.clientId
 clientSecret = api_config.clientSecret
 
